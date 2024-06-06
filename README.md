@@ -4,21 +4,16 @@
 ## Here what he can do:
 - show a list of your entered numbers
 - show statistics using Charts
+- validating the entered number
 - notification of victory or defeat
 - the rules tab
 ## Stack of technologies that i use in my project:
 - swiftui
 - mvvm
 - charts
-![image](https://github.com/Eg0rik/Bulls-and-Cows/assets/143845440/281e392a-a011-486b-a4cd-42afd82661e9)
-![image](https://github.com/Eg0rik/Bulls-and-Cows/assets/143845440/afc02947-df44-405e-8d91-09d4b37b59bf)
-![image](https://github.com/Eg0rik/Bulls-and-Cows/assets/143845440/67590ab8-3106-4aea-ba60-9b67e389f9e3)
-![image](https://github.com/Eg0rik/Bulls-and-Cows/assets/143845440/1df39530-ea43-4c68-be0b-7d8dda59f929)
-![image](https://github.com/Eg0rik/Bulls-and-Cows/assets/143845440/a3a8d3c8-ae4e-4640-a8be-7f26a30cc94a)
-![image](https://github.com/Eg0rik/Bulls-and-Cows/assets/143845440/93adf6b8-af6e-4f60-b120-eb53f82f9fcc)
-
-
-
+![BeFunky-collage-2](https://github.com/Eg0rik/Bulls-and-Cows/assets/143845440/f6a8ebb0-5272-4422-ab1a-6975d9b521cf)
+![BeFunky-collage-3](https://github.com/Eg0rik/Bulls-and-Cows/assets/143845440/ef8a293b-3db3-4844-a418-a71677848b95)
+![Simulator Screenshot - iPhone 15 Pro - 2024-06-06 at 12 05 11](https://github.com/Eg0rik/Bulls-and-Cows/assets/143845440/975f07e6-7236-42ce-9c22-b870eb7f7b99)
 
 
 
